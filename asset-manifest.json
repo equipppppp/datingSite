@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/datingSite/static/css/main.8a995540.css",
+    "main.js": "/datingSite/static/js/main.c6b4a63c.js",
+    "index.html": "/datingSite/index.html",
+    "main.8a995540.css.map": "/datingSite/static/css/main.8a995540.css.map",
+    "main.c6b4a63c.js.map": "/datingSite/static/js/main.c6b4a63c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a995540.css",
+    "static/js/main.c6b4a63c.js"
+  ]
+}
